@@ -1,4 +1,8 @@
 /* ── Rotate overlay ── */
+body {
+   background: #000;
+}
+
 @media (orientation: landscape) and (max-height: 500px) {
    .wrapper {
       display: none;
